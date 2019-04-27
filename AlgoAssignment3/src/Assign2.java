@@ -35,7 +35,7 @@ public class Assign2 {
 		
 		for (int i [] : array) {
 			for (int j : i) sum += j;
-			length += i.length;
+			length += i.length; //add the length of each array in the 2d array
 		}
 		
 		return sum / length;
@@ -55,9 +55,7 @@ public class Assign2 {
 		
 		double sum = 0;
 		
-		for (int[] j : array) {
-			sum += j[column];
-		}
+		for (int[] j : array) sum += j[column];
 		
 		return sum / array.length;
 		
