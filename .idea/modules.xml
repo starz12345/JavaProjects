@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2Darrays/2Darrays.iml" filepath="$PROJECT_DIR$/2Darrays/2Darrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoAssignment2/AlgoAssignment2.iml" filepath="$PROJECT_DIR$/AlgoAssignment2/AlgoAssignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoAssignment3/AlgoAssignment3.iml" filepath="$PROJECT_DIR$/AlgoAssignment3/AlgoAssignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoGraphs/AlgoGraphs.iml" filepath="$PROJECT_DIR$/AlgoGraphs/AlgoGraphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoSort/AlgoSort.iml" filepath="$PROJECT_DIR$/AlgoSort/AlgoSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arithmethic/Arithmethic.iml" filepath="$PROJECT_DIR$/Arithmethic/Arithmethic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment1/Assignment1.iml" filepath="$PROJECT_DIR$/Assignment1/Assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment2/Assignment2.iml" filepath="$PROJECT_DIR$/Assignment2/Assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment3/Assignment3.iml" filepath="$PROJECT_DIR$/Assignment3/Assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment4/Assignment4.iml" filepath="$PROJECT_DIR$/Assignment4/Assignment4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment5/Assignment5.iml" filepath="$PROJECT_DIR$/Assignment5/Assignment5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment5Fx/Assignment5Fx.iml" filepath="$PROJECT_DIR$/Assignment5Fx/Assignment5Fx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeMakery/CodeMakery.iml" filepath="$PROJECT_DIR$/CodeMakery/CodeMakery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection2/Collection2.iml" filepath="$PROJECT_DIR$/Collection2/Collection2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparator/Comparator.iml" filepath="$PROJECT_DIR$/Comparator/Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComplexOp/ComplexOp.iml" filepath="$PROJECT_DIR$/ComplexOp/ComplexOp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam/Exam.iml" filepath="$PROJECT_DIR$/Exam/Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamFX/ExamFX.iml" filepath="$PROJECT_DIR$/ExamFX/ExamFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Freestyle/Freestyle.iml" filepath="$PROJECT_DIR$/Freestyle/Freestyle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorldJavaFx/HelloWorldJavaFx.iml" filepath="$PROJECT_DIR$/HelloWorldJavaFx/HelloWorldJavaFx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Icefire/Icefire.iml" filepath="$PROJECT_DIR$/Icefire/Icefire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java1/Java1.iml" filepath="$PROJECT_DIR$/Java1/Java1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFull/JavaFull.iml" filepath="$PROJECT_DIR$/JavaFull/JavaFull.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture2Part1/Lecture2Part1.iml" filepath="$PROJECT_DIR$/Lecture2Part1/Lecture2Part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture3part1/Lecture3part1.iml" filepath="$PROJECT_DIR$/Lecture3part1/Lecture3part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture4/Lecture4.iml" filepath="$PROJECT_DIR$/Lecture4/Lecture4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture5/Lecture5.iml" filepath="$PROJECT_DIR$/Lecture5/Lecture5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture5.01/Lecture5.01.iml" filepath="$PROJECT_DIR$/Lecture5.01/Lecture5.01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture6/Lecture6.iml" filepath="$PROJECT_DIR$/Lecture6/Lecture6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Login/Login.iml" filepath="$PROJECT_DIR$/Login/Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Makery/Makery.iml" filepath="$PROJECT_DIR$/Makery/Makery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinElementChallenge/MinElementChallenge.iml" filepath="$PROJECT_DIR$/MinElementChallenge/MinElementChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinMax/MinMax.iml" filepath="$PROJECT_DIR$/MinMax/MinMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobilePhone/MobilePhone.iml" filepath="$PROJECT_DIR$/MobilePhone/MobilePhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nim/Nim.iml" filepath="$PROJECT_DIR$/Nim/Nim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Packages/Packages.iml" filepath="$PROJECT_DIR$/Packages/Packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneBook/PhoneBook.iml" filepath="$PROJECT_DIR$/PhoneBook/PhoneBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Point/Point.iml" filepath="$PROJECT_DIR$/Point/Point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prisoner/Prisoner.iml" filepath="$PROJECT_DIR$/Prisoner/Prisoner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseArray/ReverseArray.iml" filepath="$PROJECT_DIR$/ReverseArray/ReverseArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Songs/Songs.iml" filepath="$PROJECT_DIR$/Songs/Songs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransferWise/TransferWise.iml" filepath="$PROJECT_DIR$/TransferWise/TransferWise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_pasted_code_/_pasted_code_.iml" filepath="$PROJECT_DIR$/_pasted_code_/_pasted_code_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test11/test11.iml" filepath="$PROJECT_DIR$/test11/test11.iml" />
+    </modules>
+  </component>
+</project>
