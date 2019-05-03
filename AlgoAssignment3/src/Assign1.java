@@ -36,9 +36,6 @@ public class Assign1 {
 		array = reverse(array);
 		for (int i : array) System.out.print(i + " ");
 		
-		
-		
-		
 
 	}
 	
