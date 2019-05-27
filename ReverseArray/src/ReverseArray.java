@@ -1,3 +1,5 @@
+import java.math.BigDecimal;
+import java.text.DecimalFormat;
 import java.util.Arrays;
 
 public class ReverseArray {
@@ -19,7 +21,8 @@ public class ReverseArray {
 		
 		System.out.println(test(j));
 		System.out.println(j);
-
+		DecimalFormat df = new DecimalFormat("#.00");
+		System.out.println(df.format(0.898));
 	}
 	
 	
@@ -40,9 +43,7 @@ public class ReverseArray {
 			System.out.print(".");
 			
 		}
-		
-		
-		
+
 		return reversed;
 		
 	}

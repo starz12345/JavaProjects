@@ -1,9 +1,14 @@
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 import java.util.Scanner;
 
 public class Temperature {
 
 	public static void main(String[] args) {
 		Scanner keys = new Scanner(System.in);
+		List<String> list = new ArrayList<>();
+		Collections.sort(list);
 
 		String[] weekDays = { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
 		int[] temp = new int[7];
