@@ -5,8 +5,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int [] array = {1, 1, 1, 1, 1, 1, 1};
-        System.out.println(isPrimeHappy(13));
+        int [] array = {1, 1, 1, 1, 2,2 , 1, 1};
+        System.out.println(hasSingleMaximum(array));
 
 
     }
